@@ -738,13 +738,6 @@ QUESTIONS_DB = {
         "answer": "2.24 L"
     },
     {
-        "id": 15,
-        "prompt": "ما عدد مولات الأكسجين في 0.5 mol من كبريتات النحاس المائية CuSO4.5H2O؟",
-        "type": "mcq",
-        "options": ["0.5 mol", "2.5 mol", "4.5 mol", "9.0 mol"],
-        "answer": "4.5 mol"
-    },
-    {
         "id": 16,
         "prompt": "كتلة مول واحد من غاز الهيليوم He (كتلته الذرية 4) تساوي 4 جرام.",
         "type": "true_false",
